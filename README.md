@@ -144,7 +144,3 @@ For production use, consider:
 - Setting up proper logging and observability
 
 See `scaling.md` for detailed production considerations.
-
-## License
-
-MIT
